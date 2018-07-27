@@ -4,12 +4,12 @@ body {
   font-family: Verdana
 }
 h1 {
-  font-weight: normal;
+  font-weight: bolder;
   color: white;
   font-size: 50px;
 }
 h2 {
-  font-weight: 300;
+  font-weight: bolder;
   font-size: 42px;
 }
 h3 {
